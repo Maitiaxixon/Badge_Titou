@@ -595,7 +595,7 @@
       "borderColor": "#00000000",
       "groupId": "gl",
       "id": "l-fr",
-      "imageURL": "https://img.shields.io/badge/🇫🇷_FRA-2A2A2A.png?style=flat&scale=3",
+      "imageURL": "https://img.shields.io/badge/🇫🇷_FRA-2A2A2A.png?style=flat&scale=5",
       "isEnabled": true,
       "name": "🇫🇷",
       "pattern": "(?i)\\bfrench\\b|\\bfra\\b|\\bfr\\b|\\bvff\\b|\\bvfq\\b",
