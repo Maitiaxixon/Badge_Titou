@@ -62,7 +62,7 @@
       "borderColor": "#00000000",
       "groupId": "gq",
       "id": "q-r",
-      "imageURL": "https://raw.githubusercontent.com/Maitiaxixon/Badge_Titou/main/images/remux.jpg",
+      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/mono-remux.png",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\bremux\\b",
